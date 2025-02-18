@@ -1,4 +1,4 @@
-baseURL = "https://swettoth0812.github.io/"
+baseURL = "https://swettoth0812.github.io/my-blog/"
 title = "Sweet Tooth's online notebook"
 theme = "hugo-coder"
 languageCode = "en"
