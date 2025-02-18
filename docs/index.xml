@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sweet Tooth&#39;s online notebook</title>
-    <link>https://swettoth0812.github.io/</link>
+    <link>https://swettoth0812.github.io/my-blog/</link>
     <description>Recent content on Sweet Tooth&#39;s online notebook</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://swettoth0812.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://swettoth0812.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://swettoth0812.github.io/about/</link>
+      <link>https://swettoth0812.github.io/my-blog/about/</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://swettoth0812.github.io/about/</guid>
+      <guid>https://swettoth0812.github.io/my-blog/about/</guid>
       <description>&lt;p&gt;Coming Soon &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>https://swettoth0812.github.io/tags/shortcodes/_index.pt-br/</link>
+      <link>https://swettoth0812.github.io/my-blog/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>https://swettoth0812.github.io/tags/shortcodes/_index.pt-br/</guid>
+      <guid>https://swettoth0812.github.io/my-blog/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://swettoth0812.github.io/contact/</link>
+      <link>https://swettoth0812.github.io/my-blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swettoth0812.github.io/contact/</guid>
+      <guid>https://swettoth0812.github.io/my-blog/contact/</guid>
       <description>&lt;p&gt;Gmail: &lt;a href=&#34;mailto:tan.trinh.0812@gmail.com&#34; &gt;tan.trinh.0812@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://swettoth0812.github.io/projects/</link>
+      <link>https://swettoth0812.github.io/my-blog/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://swettoth0812.github.io/projects/</guid>
+      <guid>https://swettoth0812.github.io/my-blog/projects/</guid>
       <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
     </item>
   </channel>

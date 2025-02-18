@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Sweet Tooth&#39;s online notebook</title>
-    <link>https://swettoth0812.github.io/authors/</link>
+    <link>https://swettoth0812.github.io/my-blog/authors/</link>
     <description>Recent content in Authors on Sweet Tooth&#39;s online notebook</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate>
-    <atom:link href="https://swettoth0812.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://swettoth0812.github.io/my-blog/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authors of Hugo</title>
-      <link>https://swettoth0812.github.io/authors/hugo-authors/</link>
+      <link>https://swettoth0812.github.io/my-blog/authors/hugo-authors/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:29 +0100</pubDate>
-      <guid>https://swettoth0812.github.io/authors/hugo-authors/</guid>
+      <guid>https://swettoth0812.github.io/my-blog/authors/hugo-authors/</guid>
       <description></description>
     </item>
   </channel>

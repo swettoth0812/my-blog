@@ -4,7 +4,7 @@ theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
 enableEmoji = true
-publishDir = "docs"
+publishDir = "../docs"
 
 [pagination]
 pagerSize = 6

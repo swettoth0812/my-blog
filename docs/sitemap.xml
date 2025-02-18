@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://swettoth0812.github.io/about/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/about/</loc>
     <lastmod>2025-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://swettoth0812.github.io/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/</loc>
     <lastmod>2025-02-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://swettoth0812.github.io/authors/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>https://swettoth0812.github.io/authors/hugo-authors/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>https://swettoth0812.github.io/tags/shortcodes/_index.pt-br/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/tags/shortcodes/_index.pt-br/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>https://swettoth0812.github.io/tags/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/tags/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>https://swettoth0812.github.io/categories/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/categories/</loc>
   </url><url>
-    <loc>https://swettoth0812.github.io/contact/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/contact/</loc>
   </url><url>
-    <loc>https://swettoth0812.github.io/projects/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/projects/</loc>
   </url><url>
-    <loc>https://swettoth0812.github.io/series/</loc>
+    <loc>https://swettoth0812.github.io/my-blog/series/</loc>
   </url>
 </urlset>
